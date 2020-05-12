@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 The project is live at https://distracted-colden-af5b6f.netlify.app
+
+## About the Project
+The project is the very basic tic tac toe game made in React Js. Enjoy!
 ## Available Scripts
 
 In the project directory, you can run:
